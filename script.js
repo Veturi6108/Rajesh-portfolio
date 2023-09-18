@@ -32,7 +32,7 @@ function headerShadow() {
 
 /* ----- TYPING EFFECT ----- */
 let typingEffect = new Typed(".typedText",{
-  strings : ["Student","Data Analyst"],
+  strings : ["Intellect","diligent"],
   loop : true,
   typeSpeed : 100, 
   backSpeed : 80,
@@ -111,5 +111,5 @@ sections.forEach(current =>{
 // Replace the existing JavaScript code for the "Download Resume" button
 document.getElementById("downloadResume").addEventListener("click", function() {
   // Replace the URL below with the link to your resume on Google Drive or any other hosting service.
-  window.location.href = "https://drive.google.com/file/d/1LZSKw19lHTOAAX_orcH9Zya53BfWRQa8/view?usp=sharing";
+  window.location.href = "https://drive.google.com/file/d/1pNEAA3YrEhCVyhpElsoCodZB9J-7jhKf/view?usp=sharing";
 });
