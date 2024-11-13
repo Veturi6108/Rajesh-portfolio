@@ -111,5 +111,5 @@ sections.forEach(current =>{
 // Replace the existing JavaScript code for the "Download Resume" button
 document.getElementById("downloadResume").addEventListener("click", function() {
   // Replace the URL below with the link to your resume on Google Drive or any other hosting service.
-  window.location.href = "https://drive.google.com/file/d/1pNEAA3YrEhCVyhpElsoCodZB9J-7jhKf/view?usp=sharing";
+  window.location.href = "https://drive.google.com/file/d/1DFE9v91wYxeMpbQZpYj82N8qGVmCgdjw/view";
 });
